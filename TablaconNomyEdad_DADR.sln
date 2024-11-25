@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablaconNomyEdad_DADR", "TablaconNomyEdad_DADR.csproj", "{8F13A434-10A7-436C-AA2D-BBB4D007DAFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F13A434-10A7-436C-AA2D-BBB4D007DAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F13A434-10A7-436C-AA2D-BBB4D007DAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F13A434-10A7-436C-AA2D-BBB4D007DAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F13A434-10A7-436C-AA2D-BBB4D007DAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAC918D6-08C6-495C-ACC8-1ADB1D678515}
+	EndGlobalSection
+EndGlobal

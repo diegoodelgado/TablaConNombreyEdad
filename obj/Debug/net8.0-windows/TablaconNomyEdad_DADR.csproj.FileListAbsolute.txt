@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.Form1.resources
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.AssemblyInfo.cs
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\bin\Debug\net8.0-windows\TablaconNomyEdad_DADR.exe
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\bin\Debug\net8.0-windows\TablaconNomyEdad_DADR.deps.json
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\bin\Debug\net8.0-windows\TablaconNomyEdad_DADR.runtimeconfig.json
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\bin\Debug\net8.0-windows\TablaconNomyEdad_DADR.dll
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\bin\Debug\net8.0-windows\TablaconNomyEdad_DADR.pdb
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.dll
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\refint\TablaconNomyEdad_DADR.dll
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.pdb
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\TablaconNomyEdad_DADR.genruntimeconfig.cache
+C:\Users\diego\source\repos\TablaconNomyEdad_DADR\obj\Debug\net8.0-windows\ref\TablaconNomyEdad_DADR.dll
